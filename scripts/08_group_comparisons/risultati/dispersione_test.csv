@@ -1,0 +1,4 @@
+"insieme","n_indicatori","dispersione_AN","dispersione_HC","differenza","p_permutazione"
+"12 indicatori affidabili",12,3.5483575607007,2.83045518721559,0.717902373485108,0.004
+"11, solo PRL e task switching",11,3.38056725720768,2.74337455208041,0.637192705127272,0.0098
+"13, con wcst_log_d",13,3.68876578537683,2.92384962444518,0.764916160931645,0.0034

@@ -1,0 +1,4 @@
+"indice","n","rho","p","rho_entro_gruppo","p_entro"
+"prop_pers_err",86,0.628,9.41e-11,0.63,8.2e-11
+"prop_non_pers_err",86,0.753,5.89e-17,0.697,8.56e-14
+"prop_pers_resp",86,-0.195,0.0724,-0.227,0.0354

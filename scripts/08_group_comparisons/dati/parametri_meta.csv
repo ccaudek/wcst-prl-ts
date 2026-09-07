@@ -1,0 +1,15 @@
+"parametro","primitiva","compito","affidabile_per_diff_individuali"
+"prl_a","soglia","PRL",TRUE
+"ts_a_0","soglia","TS ripetizione",TRUE
+"ts_a_1","soglia","TS switch",TRUE
+"prl_v","drift","PRL",TRUE
+"ts_v_0","drift","TS ripetizione",TRUE
+"ts_v_1","drift","TS switch",TRUE
+"prl_t","tempo non dec.","PRL",TRUE
+"ts_t_0","tempo non dec.","TS ripetizione",TRUE
+"ts_t_1","tempo non dec.","TS switch",TRUE
+"prl_alpha","apprendimento","PRL",TRUE
+"prl_pos_alpha","apprendimento","PRL",TRUE
+"wcst_logit_h","inferenza di regola","WCST",TRUE
+"wcst_log_d","soglia/decisione","WCST",FALSE
+"wcst_kappa","perseverazione","WCST",FALSE

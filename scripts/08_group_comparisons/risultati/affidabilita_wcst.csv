@@ -1,0 +1,4 @@
+"parametro","var_tra_soggetti","errore_quad_medio","affidabilita_individuale","usato_per_differenze_individuali"
+"wcst_logit_h",0.208094768931494,0.150493974169659,0.580315955073897,TRUE
+"wcst_log_d",0.00586373299455353,0.0121804459858458,0.324965353143696,FALSE
+"wcst_kappa",0.00347569253510987,0.0354702726712584,0.0892439696048807,FALSE
